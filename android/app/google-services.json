@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677656704148",
+    "project_id": "wordcraft-69dae",
+    "storage_bucket": "wordcraft-69dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677656704148:android:6a1559962c5fc0f5c6f081",
+        "android_client_info": {
+          "package_name": "com.example.languagelearningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Ksu6v60gySIo39SwRxiSuWVzV0PrcB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
